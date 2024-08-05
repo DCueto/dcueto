@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel 👋
 
 ## I'm
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=060F22&background=FFF643&center=true&vCenter=true&width=1080&height=75&lines=Full-Stack+Web+Developer;Software+Engineer;Learning+something+new)](https://dcueto.me)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=060F22&background=FFF643&center=true&vCenter=true&width=800&height=75&lines=Full-Stack+Web+Developer;Software+Engineer;Learning+something+new)](https://dcueto.me)
 
 - #### Web and mobile developer 🧑‍💻📱
 
@@ -9,7 +9,11 @@
 
 - #### Love to design and develop smooth UI experiences 🖥️ 🎨
 
-### Technologies 🛠️
+
+<!-- ## ✍ Blog & Writing
+Apart from coding, I also like writing articles - you can find them at my website dcueto.me -->
+
+## Technologies 🛠️
 
 ### 🚆
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
